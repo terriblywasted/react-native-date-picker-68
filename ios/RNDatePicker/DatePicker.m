@@ -9,6 +9,7 @@
 
 #import "RCTUtils.h"
 #import "UIView+React.h"
+#import <React/RCTComponent.h>
 
 @interface DatePicker ()
 
